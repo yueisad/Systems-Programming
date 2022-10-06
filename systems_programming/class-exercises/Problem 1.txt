@@ -1,0 +1,8 @@
+Write a C program that will prompt the user for integer values. Store each value in a node within a linked list.
+
+The program ends when the user enters a character (non-digit value)
+
+Display:
+	- a list of even numbers
+	- a list of odd numbers
+	- a list of zeroes
