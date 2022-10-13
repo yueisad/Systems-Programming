@@ -1,0 +1,16 @@
+Sorting Exercise:
+
+Using the four algorithms given, count and compare the number of exchanges made within each sort.  
+
+Display the sorts in order by efficiency with the most efficient being first.
+
+
+An Example - note the values are not accurate:
+
+Exchanges made by sorting algorithm:
+
+quicksort:  	 22
+insertion sort:  33
+merge sort:  	 44
+selection sort:  55
+
